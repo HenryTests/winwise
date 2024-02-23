@@ -1,5 +1,4 @@
 import { unstable_noStore as noStore } from 'next/cache';
-import { Champion } from '@/lib/definitions';
 import fs from 'fs';
 import { log } from 'console';
 // URL de la API que deseas consumir

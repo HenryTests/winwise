@@ -3,7 +3,7 @@
 
 
 
-interface Champion {
+export type Champion = {
     version: string;
     id: string;
     key: string;
